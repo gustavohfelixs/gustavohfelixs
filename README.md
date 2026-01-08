@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! Me chamo Gustavo Félix, atualmente com 18 anos e sou <strong> Desenvolvedor Backend Júnior</strong>.<br>
-  Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> - <strong>SENAI</strong>
+  Olá! Me chamo Gustavo Félix, atualmente com 20 anos e sou <strong> Desenvolvedor Java</strong>.<br>
+  Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> - <strong>SENAI São Caetano do Sul</strong>
 </p>
 
 
